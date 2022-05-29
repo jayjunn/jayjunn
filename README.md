@@ -1,8 +1,6 @@
 ### Hi there I'm Younggeun 👋
 
-- Full-stack developer curruntly based in London, UK
-- I'm most recently working on Glue - a web application aimed at connecting buyers, sellers and those who wish to trade skills and freelance services.
-- I have some experience in Digital marketing
+- I'm a Full-stack developer
 - How to reach me: jayjunn@outlook.com
 
 ### Here are technologies I have worked with recently
