@@ -1,6 +1,6 @@
 ### Hi there I'm Younggeun 👋
 
-- I'm a Full-stack developer
+- I'm a Front-end developer
 - How to reach me: jayjunn@outlook.com
 
 ### Here are technologies I have worked with recently
